@@ -1,0 +1,11 @@
+/Users/mizu/Projects/EncryptWord/EncryptWord/obj/Debug/netcoreapp2.0/EncryptWord.csprojResolveAssemblyReference.cache
+/Users/mizu/Projects/EncryptWord/EncryptWord/obj/Debug/netcoreapp2.0/EncryptWord.csproj.CoreCompileInputs.cache
+/Users/mizu/Projects/EncryptWord/EncryptWord/obj/Debug/netcoreapp2.0/EncryptWord.AssemblyInfoInputs.cache
+/Users/mizu/Projects/EncryptWord/EncryptWord/obj/Debug/netcoreapp2.0/EncryptWord.AssemblyInfo.cs
+/Users/mizu/Projects/EncryptWord/EncryptWord/bin/Debug/netcoreapp2.0/EncryptWord.deps.json
+/Users/mizu/Projects/EncryptWord/EncryptWord/bin/Debug/netcoreapp2.0/EncryptWord.runtimeconfig.json
+/Users/mizu/Projects/EncryptWord/EncryptWord/bin/Debug/netcoreapp2.0/EncryptWord.runtimeconfig.dev.json
+/Users/mizu/Projects/EncryptWord/EncryptWord/bin/Debug/netcoreapp2.0/EncryptWord.dll
+/Users/mizu/Projects/EncryptWord/EncryptWord/bin/Debug/netcoreapp2.0/EncryptWord.pdb
+/Users/mizu/Projects/EncryptWord/EncryptWord/obj/Debug/netcoreapp2.0/EncryptWord.dll
+/Users/mizu/Projects/EncryptWord/EncryptWord/obj/Debug/netcoreapp2.0/EncryptWord.pdb
